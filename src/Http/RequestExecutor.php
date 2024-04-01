@@ -51,6 +51,7 @@ class RequestExecutor
     private $headers = [
         'Content-Type' => 'application/json',
         'Accept'       => 'application/json;charset=utf-8',
+        'Accept-Encoding' => 'gzip'
     ];
 
     /**
