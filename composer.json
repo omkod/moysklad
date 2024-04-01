@@ -1,7 +1,7 @@
 {
-  "name": "cdekmarketteam/moysklad",
+  "name": "omkod/moysklad",
   "description": "PHP SDK Moysklad API 1.2",
-  "homepage": "https://github.com/cdekmarketteam/moysklad",
+  "homepage": "https://github.com/omkod/moysklad",
   "type": "library",
   "license": "MIT",
   "authors": [
