@@ -9,6 +9,7 @@ use JMS\Serializer\Serializer;
 use JMS\Serializer\SerializerBuilder;
 use MoySklad\Entity\MetaEntity;
 use MoySklad\Entity\Barcode;
+use MoySklad\Util\Serializer\MixedDeserializeHandler;
 use MoySklad\Util\Serializer\MixedSerializeHandler;
 
 class SerializerInstance
