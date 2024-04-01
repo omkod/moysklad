@@ -1,3 +1,4 @@
+<?php
 namespace MoySklad\Util\Serializer;
 
 use JMS\Serializer\Serializer;
