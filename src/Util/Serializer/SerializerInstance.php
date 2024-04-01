@@ -69,7 +69,7 @@ class SerializerInstance
                 ->addDefaultHandlers()
                 ->build();
         }
-
+    
         return self::$instance;
     }
 }
