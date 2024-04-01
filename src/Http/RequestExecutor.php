@@ -228,7 +228,7 @@ class RequestExecutor
      * @return string
      * @throws ApiClientException
      */
-    private function executeRequest(Request $request): string
+    public function executeRequest(Request $request): string
     {
         try {
             $response = $this->client->sendRequest($request);
